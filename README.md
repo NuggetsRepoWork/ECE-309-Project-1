@@ -12,7 +12,6 @@ LLM Mini-Harness written in C. This program simulates a environment similar to w
 
 | File | Purpose |
 |---|---|
-| `CMakeLists.txt` | File used to configure any C coding environment to operate `harness.c` & `test_harness.c` together in any environment|
 | `harness.c` | The harness itself|
 | `test.sh` | Automated Bash test script which uses 'hello' & 'exit' to test functionality of the file harness.c |
 | `C Program AI Harness Log.md` | Ai log of vibe coding prompts that was used to create `harness.c` & create aswell as debug `test_harness.c`|
